@@ -20,7 +20,7 @@ body {
 }
 .mybox {
     -webkit-transform: translate(50px, 100px);
-
+    -ms-transform: translate(50px, 100px);
     -moz-border-radius: 5px;
      border-radius: 5px;
 }
