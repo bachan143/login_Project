@@ -23,6 +23,7 @@ body {
     -ms-transform: translate(50px, 100px);
     -o-transform: translate(50px, 100px);
     -moz-transform: translate(50px, 100px);
+    transform:translate(50px,100px);
     -moz-border-radius: 5px;
      border-radius: 5px;
 }
