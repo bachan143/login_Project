@@ -20,10 +20,9 @@ body {
 }
 .mybox {
     -webkit-transform: translate(50px, 100px);
-}
 
-.mybox {
     -moz-border-radius: 5px;
+     border-radius: 5px;
 }
 
 .form-signin {
